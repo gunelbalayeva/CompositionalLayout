@@ -11,7 +11,6 @@ class DashboardViewModel {
     let cards: [CardModel] = [
         CardModel(imageName: "card1"),
         CardModel(imageName: "card2"),
-        CardModel(imageName: "card3")
     ]
 
     let frequentlyUsed: [FrequentlyUsedModel] = [
